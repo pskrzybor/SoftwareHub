@@ -36,7 +36,7 @@ buttons:
 
     - title: Dencode
       url: https://www.dencode.com
-      icon: arcticons:aia-connect
+      icon: icon-park-solid:connect
       tag: decode
       tag2: encode
 

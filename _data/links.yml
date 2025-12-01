@@ -21,12 +21,18 @@ buttons:
       icon: bi:usb-drive-fill
       tag: live USB
       
-  - category: Misc
+  - category: Utilities
     items:
     - title: iconify
       url: https://icon-sets.iconify.design/
       icon: simple-icons:iconify
       tag: icons
+
+    - title: Calculator.net
+      url: https://www.calculator.net/
+      icon: gg:calculator
+      tag: finance
+      tag2: date
 
   - category: Education
     items:

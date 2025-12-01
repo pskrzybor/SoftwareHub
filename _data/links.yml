@@ -34,6 +34,12 @@ buttons:
       tag: finance
       tag2: date
 
+    - title: Dencode
+      url: https://www.dencode.com
+      icon: arcticons:aia-connect
+      tag: decode
+      tag2: encode
+
   - category: Education
     items:
     - title: Polypad
